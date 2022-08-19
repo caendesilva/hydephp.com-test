@@ -1,6 +1,6 @@
 @extends('hyde::layouts.app')
 @section('content')
-@php($title = 'About HydePHP')
+@php($title = 'About HydePHP Changed on GitHub')
 @php($navigation = ['title' => 'About'])
 <style>
 	mark {
